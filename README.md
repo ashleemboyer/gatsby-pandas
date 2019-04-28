@@ -1,6 +1,6 @@
 <p align="center">
   <a href="./src/images/icon.png">
-    <img alt="Panda emoji" src="./src/images/icon.png" width="60"/>
+    <img alt="Panda emoji" src="./src/images/icon.png" />
   </a>
 </p>
 <h1 align="center">Gatsby Pandas!</h1>

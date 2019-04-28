@@ -5,8 +5,6 @@
 </p>
 <h1 align="center">Gatsby Pandas!</h1>
 
-## Some extra steps to remember
-
 ### [Steps to make it work in GitHub Pages](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/)
 1. Install the `gh-pages` package:
   ```
